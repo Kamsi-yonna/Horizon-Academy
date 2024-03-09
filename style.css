@@ -7,7 +7,7 @@
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(data/banner.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.png);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -536,7 +536,7 @@ nav .fa {
     
 
 .cta {
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(data/banner2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(images/banner2.jpg);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -598,7 +598,7 @@ nav .fa {
 .sub-header{
     height: 15vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(data/background.jpg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background.jpg);
     background-size: cover;
     text-align: center;
     color: #fff;
@@ -919,7 +919,7 @@ nav .fa {
 }
 
 .homefooter{
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(data/banner.png);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/banner.png);
 }
 
 
@@ -1004,7 +1004,7 @@ nav .fa {
 .courseheader{
     height: 15vh;
     width: 100%;
-    background-image: linear-gradient(rgba(39,93,56,0.8),rgba(39,93,56,0.8)),url(data/about.jpg);
+    background-image: linear-gradient(rgba(39,93,56,0.8),rgba(39,93,56,0.8)),url(images/about.jpg);
     background-size: cover;
     text-align: center;
     color: #fff;
@@ -1105,7 +1105,7 @@ nav .fa {
     width: 100%;
     border: solid 2px;
     margin: 0px 20px;
-    background-image:linear-gradient(rgba(39,93,56,0.8),rgba(39,93,56,.8)), url(data/BannerI.png);
+    background-image:linear-gradient(rgba(39,93,56,0.8),rgba(39,93,56,.8)), url(images/BannerI.png);
     background-size: cover;
 
    
@@ -1208,7 +1208,7 @@ nav .fa {
     width: 100%;
     margin: auto;
     padding: 20px 0px;
-    background-image: url(data/BannerO.png);
+    background-image: url(images/BannerO.png);
 }
 
 .options h1{
@@ -1276,31 +1276,31 @@ nav .fa {
 }
 
 .studentex:nth-child(1) .info:nth-child(2){
-    background-image: url(data/LifeAcademy.png);
+    background-image: url(images/LifeAcademy.png);
 }
 
 .studentex:nth-child(1) .info:nth-child(3){
-    background-image: url(data/research.png);
+    background-image: url(images/research.png);
 }
 
 .studentex:nth-child(2) .info:nth-child(1){
-    background-image: url(data/career.png);
+    background-image: url(images/career.png);
 }
 
 .studentex:nth-child(2) .info:nth-child(2){
-    background-image: url(data/scholarship.png);
+    background-image: url(images/scholarship.png);
 }
 
 .studentex:nth-child(2) .info:nth-child(3){
-    background-image: url(data/internationalstudent.png);
+    background-image: url(images/internationalstudent.png);
 }
 
 .studentex:nth-child(3) .info:nth-child(1){
-    background-image: url(data/Inuit.jpg);
+    background-image: url(images/Inuit.jpg);
 }
 
 .studentex:nth-child(3) .info:nth-child(2){
-    background-image: url(data/residence.jpg);
+    background-image: url(images/residence.jpg);
 }
 
 .studentex:nth-child(3) .info:nth-child(3){
@@ -1447,7 +1447,7 @@ courseheader
 .blogheader{
     height: 15vh;
     width: 100%;
-    background-image: linear-gradient(rgba(128,0,11,0.8),rgba(128,0,11,0.8)),url(data/about.jpg);
+    background-image: linear-gradient(rgba(128,0,11,0.8),rgba(128,0,11,0.8)),url(images/about.jpg);
     background-size: cover;
     text-align: center;
     color: #fff;
@@ -1587,7 +1587,7 @@ t-col {
 .event-col img{
     width: 100%;
     transition: .8s;
-    background-image: url(data/Alumni.png);
+    background-image: url(images/Alumni.png);
 }
 
 .event-col img:hover {
@@ -1616,7 +1616,7 @@ t-col {
 }
 
 .event-col:hover img{
-    background-image: url(data/Alumni.png);
+    background-image: url(images/Alumni.png);
     
 }
 
@@ -1750,7 +1750,7 @@ event-col:hover h3{
 .contact-header{
     height: 15vh;
     width: 100%;
-    background-image:url(data/contactheader.png);
+    background-image:url(images/contactheader.png);
     background-size: cover;
     text-align: center;
     color: #fff;
@@ -1821,7 +1821,7 @@ event-col:hover h3{
 }
 
 .contactfooter{
-    background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.2)),url(data/banner.png);
+    background-image: linear-gradient(rgba(4,9,30,0.6),rgba(4,9,30,0.2)),url(images/banner.png);
 }
 
 
